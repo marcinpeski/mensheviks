@@ -8,10 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-<ol>
-  {% for post in site.posts.councilmeetings %}
+{% for post in site.council_meetings %}
     
-      <li>{% include archive-single.html %}</li>
+      {% include archive-single.html %}
     
-  {% endfor %}
-</ol>
+{% endfor %}
