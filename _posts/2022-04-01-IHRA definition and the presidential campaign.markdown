@@ -1,8 +1,11 @@
 ---
-author: "Marcin Peski"
 title:  "IHRA Definition and the Presidential Campaign"
 date:   2022-04-01 19:03:58 -0400
 categories: post
+author: "Marcin Peski"
+layout: posts
+classes: wide
+tags: IHRA
 ---
 
 TBA

@@ -7,9 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.council_meetings %}
+<ul>
+{% for post in site.councilmeetings reversed %}
     
-      {% include archive-single.html %}
+      <li>
+      {% include archive-single-meeting.html %}
+      
+      </li>
     
 {% endfor %}
+</ul>

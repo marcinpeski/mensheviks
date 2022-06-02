@@ -3,6 +3,9 @@ author: "Marcin Peski"
 title:  "Retiree health benefits"
 date:   2022-04-07 19:03:58 -0400
 categories: post
+layout: posts
+classes: wide
+tags: elections retirees
 ---
 One of the mostly contested issues of the now completed campaign were the retiree health benefits and specifically, the fact that the most recent agreement with the adminstration leaves them up for arbitration. To explain:
 

@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "TBA"
+  name             : "Mensheviks"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Arrogant and priviliged Council members, including entitled and powerful Zionists."
   location         : "Toronto, ON"
@@ -292,4 +292,6 @@ defaults:
       related: true
 
 collections:
-  - council_meetings
+  councilmeetings:
+    output: true
+    permalink: /:collection/:path/

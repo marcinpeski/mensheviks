@@ -1,8 +1,11 @@
 ---
-author: "Marcin Peski"
 title:  "Who are the entitled powerful Zionists?"
 date:   2022-04-01 19:03:58 -0400
 categories: post
+author: "Marcin Peski"
+layout: posts
+classes: wide
+tags: IHRA elections Zoric
 ---
 
 Although the issues of Terezia Zoric remarks during a public forum on the School of Law hiring controversy and her subsequent 4-month later [apology](https://www.utfa.org/content/statement-apology) were not central to the presidential campaigns, they definitely appeared and they were important to many voters. A group of Jewish faculty wrote a [letter](https://www.tereziazoric.org/letter-of-support-from-jewish-faculty) (see also below) in the support of Terezia Zoric re-election.
