@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Council meetings"
+    url: /councilmeetings/
+  - title: "Links"
+    url: /links/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
