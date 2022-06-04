@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About"
+    url: /home/
   - title: "Posts"
     url: /posts/
   - title: "Council meetings"

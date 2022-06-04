@@ -2,7 +2,17 @@
 layout: archive
 ---
 
+{% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+{% if page.author %}<i>{{ page.author }}</i>
+  {% if page.date %}<i>, on {{ page.date | date: "%-d %B %Y" }}</i>
+    {% if page.last_modified_at %}, modified on {{ page.date | date: "%-d %B %Y" }}{% endif %}
+  {% endif %}
+{% endif %}
+
+
 {{ content }}
+
+
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}

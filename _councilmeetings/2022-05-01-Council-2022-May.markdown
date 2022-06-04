@@ -6,4 +6,5 @@ date:   2022-05-01 00:00:01 -0400
 categories: meeting
 url_agenda: "/files/council meetings/2022-05.pdf"
 tags:
+highlights: Executive elections
 ---

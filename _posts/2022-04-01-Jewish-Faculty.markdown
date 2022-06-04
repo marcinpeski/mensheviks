@@ -6,7 +6,10 @@ author: "Marcin Peski"
 layout: posts
 classes: wide
 tags: IHRA elections Zoric
+excerpt_separator: <!--more-->
 ---
+T. Zoric election website has a letter signed by 20 or so  "Jewish faculty" which explains her "powerful, entitled Zionist" comments as targeted at Council members who supported IHRA definition of anti-semitism. The signatories by far and large have not participated in the Council discussion on IHRA; no Council member has ever expressed support for the defintion.
+<!--more-->
 
 Although the issues of Terezia Zoric remarks during a public forum on the School of Law hiring controversy and her subsequent 4-month later [apology](https://www.utfa.org/content/statement-apology) were not central to the presidential campaigns, they definitely appeared and they were important to many voters. A group of Jewish faculty wrote a [letter](https://www.tereziazoric.org/letter-of-support-from-jewish-faculty) (see also below) in the support of Terezia Zoric re-election.
 
@@ -29,7 +32,7 @@ There was no charge of antisemitism for anybody who objected to the IHRA definti
 
 Perhaps the mistake is a consequence of the fact that none of the 25 signatories was a participant in the two Council meetings where the IHRA was discussed and only one particpated in one of those meetings.  
  
-The reference to the defintion becomes even problematic because it played an unfortunate role [in the presidential campaign]({% post_url 2022-04-01-IHRA definition and the presidential campaign %}). 
+The reference to the defintion becomes even problematic because it played an unfortunate role <a href="{% post_url 2022-04-01-IHRA-definition %}">in the presidential campaign</a>. 
 
 Some additional details:
 
