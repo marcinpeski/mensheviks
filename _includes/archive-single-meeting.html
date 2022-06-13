@@ -37,7 +37,7 @@
                                     , 
                               {% endif %}
 
-                              <i><a href="{{ related.url }}">{{ related.title }}</a></i>
+                              <i><a href="{{ related.url | relative_url }}">{{ related.title }}</a></i>
                         {% endif %}
                   {% endfor %}
             {% endfor %}
