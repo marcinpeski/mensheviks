@@ -13,3 +13,9 @@ tags: Zoric
 * <a href="{% post_url 2022-04-01-Jewish-Faculty %}">Who are the entitled, powerful Zionists?</a>
 
 * <a href="{% post_url 2022-01-26-Bargaining-agreement-secrecy %}">Bargaining agreements and secrecy.</a>
+
+* explicitly email
+
+* OHRP complaint
+
+* 

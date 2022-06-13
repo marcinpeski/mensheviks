@@ -7,9 +7,11 @@ layout: posts
 classes: wide
 tags: elections retirees
 ---
-One of the mostly contested issues of the now completed campaign were the retiree health benefits and specifically, the fact that the most recent agreement with the adminstration leaves them up for arbitration. To explain:
+The most recent agreement with the adminstration leaves important retiree benefits to be decided in a binding arbitration. This issue was hotly discussed in the 2022 presidential campaign. 
 
-* The current situation is that the retirees receive exactly the same health benefits as the active members of the UTFA. Those benefits include Green Shield [health and dental plan](https://uthrprod.service-now.com/sys_attachment.do?sys_id=4fb6e0bfdbc801945fb27b60399619b4), including travel coverage, etc. As the University of Toronto describes it on its [website](https://uthrprod.service-now.com/esc?id=kb_article&sys_id=610137bb1b0db010a1716460604bcb48): 
+To explain:
+
+* Currently, the retirees receive exactly the same health benefits as the active members of the UTFA. Those benefits include Green Shield [health and dental plan](https://uthrprod.service-now.com/sys_attachment.do?sys_id=4fb6e0bfdbc801945fb27b60399619b4), including travel coverage, etc. As the University of Toronto describes it on its [website](https://uthrprod.service-now.com/esc?id=kb_article&sys_id=610137bb1b0db010a1716460604bcb48): 
 > The only change made to health & dental benefits coverage when you retire is that the Health Care Spending Account ends. 
 
 * The retiree health benefits are, not surprisingly, much more costly than those of the actives, and this cost is increasing as the live expectancy is going up much faster than the increase in retirement age. The University would like to separate the benefits for the two groups and negotiate them separately. The UTFA opposes this. 
