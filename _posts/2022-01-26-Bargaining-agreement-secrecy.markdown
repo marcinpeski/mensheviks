@@ -1,6 +1,6 @@
 ---
 title:  "Bargaining agreements and secrecy"
-date:   2022-01-26 19:03:58 -0400
+date:   2022-01-26 7:03:58 -0400
 categories: post
 author: "Marcin Peski"
 layout: posts

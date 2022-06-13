@@ -1,6 +1,6 @@
 ---
 title:  "Who are the entitled powerful Zionists?"
-date:   2022-04-01 19:03:58 -0400
+date:   2022-04-01 9:03:58 -0400
 categories: post
 author: "Marcin Peski"
 layout: posts
