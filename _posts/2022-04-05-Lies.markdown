@@ -10,6 +10,10 @@ tags: Zoric
 
 >My UTFA doesn’t peddle lies. (<a href="https://twitter.com/terezia_zoric/status/1509567118961958913">T. Zoric</a>)
 
+* {{ site.baseurl }}
+
+* [Link]({{ site.baseurl }}{% post_url 2022-04-01-Jewish-Faculty %})
+
 * [Link]({% post_url 2022-04-01-Jewish-Faculty %})
 
 * <a href="{{ relative_url }}{% post_url 2022-04-01-Jewish-Faculty %}">Who are the entitled, powerful Zionists?</a>

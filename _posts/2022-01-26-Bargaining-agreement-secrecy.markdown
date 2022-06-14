@@ -7,6 +7,7 @@ layout: posts
 classes: wide
 tags: bargaining Zoric
 excerpt_separator: <!--more-->
+permalink: 
 ---
 UTFA leaders gave the Council 2h to read the agreement before voting on it. That's not enough; it is also different from the past practice, where the agreement would be released to all faculty and librarians **2 weeks** before the ratification vote.  
 <!--more-->
