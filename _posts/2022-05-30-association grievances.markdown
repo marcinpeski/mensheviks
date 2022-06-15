@@ -71,7 +71,38 @@ Following the Grievance Protocol Working Group,
 
 This decision remains controversial, as the UTFA Council does not have a
 
-## Decision process - rules
+## Decision process - practice
+
+Since late April, I have had an exchange of emails on the topic of two recently submitted association grievances and the lack of information about them the Council has received before the grievances were submitted. In the interest of time, again, I wanted to share my concerns in an email:
+1.	I believe that the President has ignored the policy on association grievances and has not given the Council a meaningful opportunity to provide feedback on two recently submitted association grievances.
+2.	There is a culture of secrecy problem at the heart of UTFA that stops Council reps from being able to do their job. 
+Last June, the Council passed association grievance policy that says that before an association grievance is submitted,  
+"Council will be offered the opportunity to provide feedback on the major contours of the Association grievance. Council may refer the Association Grievance back to the Executive for further discussion."
+
+(This decision was quite controversial. The policy was designed by the Executive under the leadership of T. Zoric and J. Nogami. I voted against this policy because I wanted a stronger role of the Council in the process - like before T. Zoric became President, when the association grievances were always approved "in principle" (i.e., not the exact text of the grievance, but the main ideas behind it) by the Council before they were submitted.)
+
+Incidentally, I learned in late April that UTFA has submitted two grievances since June:
+- Without Prejudice Grievance Responses and 
+- the Implementation of the Vaccine Mandate.
+ 
+I checked and indeed the two above names appear in Council agendas December 21 - February 22. At the same time, I had no recollection of ever discussing them. (That's not uncommon - out of lack of time, we often rush through items on the agenda.) Because I was surprised by this, I asked 10 of my colleagues if they know what the two grievances are about. Only one of them replied that  the second one is probably "to protect the jobs of a small number of unvaccinated faculty." 
+
+None of them knew what "Without Prejudice Grievance" is.
+
+I cannot see how the above policy was fulfilled and the Council was given an opportunity to provide a meaningful feedback.  
+
+I recall many Council discussions on association grievances that happened back when C. Messenger was a President (and it was T. Zoric, then VP Grievances, who was leading some of those discussions). Nothing of that sort seems to be allowed now.
+
+Since April, since I learned that the grievances had been submitted, I have asked twice for the text of the two grievances or any materials or information about the grievance. The President refused, twice. 
+
+In the past, the text of the association grievances was occasionally released. For instance, the President released the text of the submitted Azarova (School of Law hiring) grievance to the Council, without requesting confidentiality. I see no principle behind why some grievances are, and some not released, perhaps except for who is asking.
+
+After I expressed my concerns, the President prepared a presentation on the two grievances to be delivered in the in camera portion of the meeting. I could not attend this part of the meeting. But even if I was present, the fact that the discussion was in camera would make it impossible for me to share information with my constituents about UTFA work that is  
+- not really secret to anybody that matters (recently submitted to the UofT),
+- as a association grievance, it is supposed to represent the values and interests of all of us.  
+
+It is simply not right. We cannot do our jobs if only very few people have any idea what UTFA is doing and they refuse to share any meaningful information with others. 
+
 
 
 
