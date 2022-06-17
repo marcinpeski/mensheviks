@@ -1,14 +1,14 @@
 ---
 layout:            meetings
 author:            "Marcin Peski"
-title:             "March 2022"
-date:              2022-03-01 00:00:01 -0400
-last_modified:           
+title:            December 2022"
+date:            2022-12-11 00:00:01 -0400
+last_modified:            
 categories:            meeting
-url_agenda:            "/files/council meetings/2022-03.pdf"
+url_agenda:            /files/council meetings/Dec. 11-2017 Council Agenda and materials.pdf
 tags:            
-highlights:           
-excerpt_separator:           <!--more-->
+highlights:            
+excerpt_separator:            <!--more-->
 ---
  <!--more-->
   <!--more-->
@@ -20,3 +20,4 @@ excerpt_separator:           <!--more-->
         <!--more-->
          <!--more-->
           <!--more-->
+           <!--more-->
