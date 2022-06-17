@@ -1,0 +1,13 @@
+---
+layout: meetings
+author: "Marcin Peski"
+title: June 2018
+date: 2018-06-13 10:00:01 -0400
+last_modified: 
+categories: meeting
+url_agenda: /files/council meetings/June 13-2018 Council Agenda and materials.pdf
+tags: 
+highlights: 
+excerpt_separator: <!--more-->
+---
+<!--more-->

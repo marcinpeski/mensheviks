@@ -35,11 +35,11 @@ for filename in files:
             add = ''
     else:
         elems = re.split(r'[ ._-]+', filename)
-        [month_name, day_code, year_code] = elems[:3]
+        [month_name, day_code, year] = elems[:3]
         month_code = month_codes[month_name]
         month = months[month_code]
         
-    output_name = year+'-'+month_code+'-'+'01'+'-'+'Council-'+year+'-'+month+'.markdown'
+    output_name = year+'-'+month_code+'-'+day_code+'-'+'Council-'+year+'-'+month+'.markdown'
     info = information.copy()
     if os.path.exists(output_dir+output_name):
         f = open(output_dir+output_name, 'r')
@@ -49,7 +49,7 @@ for filename in files:
         for line in lines:
             if line == '---\n':
                 head, excerpt = False, True
-            elif line == '<!--more-->\n':
+            elif '<!--more-->\n' in line:
                 head, excerpt, content = False, False, True
             elif head:
                 [i, b] = line.split(':', 1)
@@ -60,8 +60,8 @@ for filename in files:
                 info['contents'] = info['contents'] + line
         f.close()
     else:
-        info['title'] = info['title']+ month + ' ' + year + '"\n'
-        info['date'] = year+'-'+month_code+'-'+day_code+' 00:00:01 -0400\n'
+        info['title'] = info['title']+ month + ' ' + year + '\n'
+        info['date'] = year+'-'+month_code+'-'+day_code+' 10:00:01 -0400\n'
         info['url_agenda'] = '/files/council meetings/'+filename+'\n'
     
     #write file
