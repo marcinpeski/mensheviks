@@ -1,6 +1,6 @@
 ---
 title:  "UTFA budgets and transparency"
-date:   2022-06-17 10:03:58 -0400
+date:   2022-06-18 10:03:58 -0400
 categories: post
 author: "Marcin Peski"
 layout: posts
@@ -23,9 +23,9 @@ The amount of information to be revealed is described in Article 12.3 of the Con
 
 > 12.3 Once each academic year, the Treasurer shall present to Council, for approval, a **detailed budget** for the Association setting out actual income and expenses, **including Officer stipends** (if any), for the current fiscal year as well as predicted income and proposed expenses for the next fiscal year. From time to time, as is necessary, the Treasurer shall present to Council an interim or revised budget. (emphasis mine).
 
-Before summer 2020, the past Treasurers always released draft (June) and actual budgets (October) in the [same detailed formats]({{ site.baseurl }}{% link _files/budgets/budgets%before%2020.pdf %}). The budgets had around **120-150 positions**, and, in particular, included a detailed description of the stpiends collected by the UTFA Officers, amount of money spent on salaries, individual, and association grievances, outflows to various organizations, etc. 
+Before summer 2020, the past Treasurers always released draft (June) and actual budgets (October) in the [same detailed formats]({{ site.baseurl }}{% link files/budgets/budgets before 2020.pdf %}). The budgets had around **120-150 positions**, and, in particular, included a detailed description of the stpiends collected by the UTFA Officers, amount of money spent on salaries, individual, and association grievances, outflows to various organizations, etc. 
 
-This changed in summer 2020. Since then, the UTFA Treasurer releases information similar to the one contained in the audited statements. [The new format]({{ site.baseurl }}{% link _files/budgets/budgets%2020-2021.pdf %}) contains only **10-13 general categories**. The new format contains a general category Officer Stipends, but does not separate 
+This changed in summer 2020. Since then, the UTFA Treasurer releases information similar to the one contained in the audited statements. [The new format]({{ site.baseurl }}{% link files/budgets/budgets 2020-2021.pdf %}) contains only **10-13 general categories**. The new format contains a general category Officer Stipends, but does not separate 
 
 (Last year, when I asked about the compensation about the UTFA Officers, it took 2 months, 3 reminders, and a public email to the Council in order to receive an answer that is  )
 

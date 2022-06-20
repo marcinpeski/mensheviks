@@ -8,14 +8,16 @@ classes: wide
 tags: Zoric
 ---
 
->My UTFA doesn’t peddle lies. (<a href="https://twitter.com/terezia_zoric/status/1509567118961958913">T. Zoric</a>)
+![My UTFA doesn’t peddle lies.]({{ site.baseurl }}/files/images/no lies.png){:class="img-responsive"}
+
+The link to the <a href="https://twitter.com/terezia_zoric/status/1509567118961958913">tweet</a>
 
 * [Who are the entitled, powerful Zionists?]({{ site.baseurl }}{% link _posts/2022-04-01-Jewish-Faculty.markdown %})
 
 * [Bargaining agreements and secrecy]({{ site.baseurl }}{% post_url 2022-01-26-Bargaining-agreement-secrecy %})
 
-* explicitly email
+* [OHRT complaint]({{ site.baseurl }}{% link _posts/2022-03-01-OHRT-complaint.markdown %})
 
-* OHRP complaint
+* [Campus reopening and UTFA governance]({{ site.baseurl }}{% link _posts/2022-02-10-Campus-reopening.markdown %})
 
-* 
+* *"**The other candidate clearly states in his campaign materials that he intends to downsize the scope of UTFA’s work on behalf of the membership.**”* (Terezia Zoric campaign email, March 30, 2022) Of course, Renan Levine's campaign had no statement of this sort, nothing close. 
