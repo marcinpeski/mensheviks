@@ -8,41 +8,57 @@ classes: wide
 tags: IHRA elections Zoric
 excerpt_separator: <!--more-->
 ---
-T. Zoric election website has a letter signed by 20 or so  "Jewish faculty" which explains her "powerful, entitled Zionist" comments as targeted at Council members who supported IHRA definition of anti-semitism. The signatories by far and large have not participated in the Council discussion on IHRA; no Council member has ever expressed support for the defintion.
+T. Zoric election website has a letter signed by 20 or so  "Jewish faculty" which explains her "powerful, entitled Zionist minority" comments as targeted at Council members who supported the IHRA definition of anti-semitism. The letter is misleading in key details and its signatories by far and large have not participated in the Council discussion on IHRA.
 <!--more-->
 
-Although the issues of Terezia Zoric remarks during a public forum on the School of Law hiring controversy and her subsequent 4-month later [apology](https://www.utfa.org/content/statement-apology) were not central to the presidential campaigns, they definitely appeared and they were important to many voters. A group of Jewish faculty wrote a [letter](https://www.tereziazoric.org/letter-of-support-from-jewish-faculty) (see also below) in the support of Terezia Zoric re-election.
+Although the issues of Terezia Zoric remarks during a public forum on the School of Law hiring controversy and her subsequent 4-month later [apology](https://www.utfa.org/content/statement-apology) were not central to the presidential campaigns, they definitely appeared and they were important to some voters. A group of Jewish faculty wrote a [letter](https://www.tereziazoric.org/letter-of-support-from-jewish-faculty) (see also below) in the support of Terezia Zoric re-election.
 
-The letter explains Terezia Zoric “entitled powerful Zionist minority” comments as targeted at a small group of Council members of a particular political persuasion, who attempted to have UTFA to adopt the IHRA definition of antisemitism. The key quote:
+The letter explains Terezia Zoric [“entitled powerful Zionist minority”](({{ site.baseurl }}{% link _posts/2021-11-01-Zionists.markdown %})) comments as targeted at a small group of Council members of a particular political persuasion, who attempted to have UTFA to adopt the IHRA definition of antisemitism. The key quote:
 
 >She said: 
 >> I wanted to offer that, as an early leader who defended the folks at the Law School and the principles of academic freedom and collegial governance, there was nothing short of unending harassment and psychological warfare where those of us who were supportive of the principles at stake at the heart of the censure experienced horrible backlash by an entitled powerful Zionist minority that felt that any criticisms of [the] Cromwell [report] or anyone else could be met with accusations of antisemitism.”  
 > 
 >Anyone familiar with the internal tension within UTFA Council at the time understood that the words “entitled powerful Zionist minority” were not intended to evoke any antisemitic trope. Instead, they referred to a minority of UTFA Council members who were persistently derailing important discussions around pressing UTFA matters. Purporting to speak on behalf of all Jewish UTFA members, they attempted, without success, to have UTFA adopt the International Holocaust Remembrance Alliance (IHRA) working definition of antisemitism, and wanted UTFA to oppose the CAUT censure. 
 
-I have no doubt about the sincerity of the support of the signatories for Terezia Zoric. However, the letter is undermined by a factual problem. Although the attempt to make UTFA support the IHRA definition undoubtedly happen, this attempt was not initiated by the (Jewish or not, Zionist or not) members of the Council. **There was no "mionorty of UTFA Council members" who supported UTFA adopting the IHRA definition.** Terezia Zoric could not refer to this group, as this group has not existed. 
+>In the context of the discussion, “minority” was not referring to Jews as a minority group, but rather to a very small group in UTFA Council; “entitled” and “powerful” referred to a sense of arrogance and disrespect for democratic process that Terezia and many other council members felt to be informing the behaviour and tactics of that group.
 
->In the context of the discussion, “minority” was not referring to Jews as a minority group, but rather to a very small group in UTFA Council; “entitled” and “powerful” referred to a sense of arrogance and disrespect for democratic process that Terezia and many other council members felt to be informing the behaviour and tactics of that group. The word “Zionist” was not a synonym for Jewish. On the contrary. Knowing that many Jewish faculty members supported the CAUT censure and opposed the adoption of the IHRA definition, Terezia avoided conflating Judaism or Jewishness with support of the actions of the State of Israel and used the word “Zionist” according to its normal usage – as a description of a political persuasion. 
+I have no doubt about the sincerity of the support of the signatories for Terezia Zoric. However, the letter is undermined by a factual problem. Although the attempt to make UTFA support the IHRA definition undoubtedly happen, this attempt was not initiated by the (Jewish or not, Zionist or not) members of the Council. **There was no "minorty of UTFA Council members" who supported UTFA adopting the IHRA definition.** Terezia Zoric could not refer to a group, as this group has not existed. 
+
+No Council member advocated for the UTFA to "adopt ... IHRA working definition of antisemitism". Instead, one ex-Council member asked T. Zoric to support the UofT Working Group on Antisemitism to adopt the definition by the UofT, and (possibly) another Council member spoke that he himself supports the definition. These two people have not had an opportunity to "derail important discussions around pressing matters" as the first one was not a member of the Council, and the second one has not spoken ever again and his activity was limited to voting.  
 
 Further, we read
 
 >As noted, around the same period, UTFA Council was pressured to endorse the IHRA working definition of antisemitism. Many faculty at U of T – Jewish and non-Jewish alike – strongly objected to this definition and its related examples, noting that it has been widely used to suppress academic freedom regarding Palestine. These objections were met, however, with further charges of antisemitism.
 
-There was no charge of antisemitism for anybody who objected to the IHRA defintion. Nobody ever spoke in favor of the definition, nor criticized anybody who spoke against it.  
+There was no charge of antisemitism for anybody who objected to the IHRA defintion. It simply never happened. 
 
-Perhaps the mistake is a consequence of the fact that none of the 25 signatories was a participant in the two Council meetings where the IHRA was discussed and only one particpated in one of those meetings.  
+Perhaps the mistakes are consequences of the fact that none of the 20 or so signatories participated in both Council meetings where the IHRA was discussed and only one particpated in one of those meetings.  
  
 The reference to the defintion becomes even problematic because it played an unfortunate role <a href="{% post_url 2022-04-01-IHRA-definition %}">in the presidential campaign</a>. 
 
-Some additional details:
+A very detailed account of all discussions and exchanges follows:
 
-* The IHRA issue in the Council was initiated in a letter by Louis Florence, at that moment a retiree (a former UTFA Council member, the former Treasurer, and the former Chief Returning Officer) in Feb 2021 to the President T. Zoric. L. Florence asked the Council to consider advocating for the adoption of the IHRA definition of antisemitism by the University of Toronto.
+* The IHRA issue in the Council was initiated in Feb 10 2021 private letter to T. Zoric by Louis Florence, at that moment a retiree, a former UTFA Council member, the former Treasurer, and the former Chief Returning Officer. L. Florence asked the Council to consider advocating for the adoption of the IHRA definition of antisemitism by the University of Toronto. L. Florence letter wrote:
 
-* The IHRA definition appears in the Council meetings twice. On Feb 18, T. Zoric described the letter and informed about a planned meeting of three committees to discuss the issue.  
+> I was wondering - a very tangible way that UTFA could contribute to fighting anti-Semitism at UT would be for UTFA to recommend to the Working Group on anti-Semitism (and/or directly to the UT administration) that it recommend to the UT Administration that the UT adopt the IHRA definition of anti-Semitism, as so many other universities, cities and countries have done. Most recently, Paris, France. ....
 
-* No member of the Council has ever spoken in the Council in support of the IHRA definition. The only support was expressed in 2 or 3 emails by L. Florence. It is difficult to describe his emails as "arrogance and disrespect for democratic process".
+> Would you be willing to spear-head such an initiative, as the President of UTFA?
 
-* Many signatories of the letter attended the three-committee meeting. I have attended as well and I have heard their very persuasive case against the definition. However, no supporter of the IHRA definition attened this meeting, nobody has spoke for the definition, nor accused anybody of antisemitism. (There was a discussion whether the meeting was properly advertised, and it seemed like opponents of the definition were mobilized, whereas some members of the Council did not even know that the meeting was to happen, or to be open to all UTFA members, not just the Council members. As a result, Louis Florence wrote an open letter to the Council declaring he won't attend).
+* On Feb 18, during Feb Council meeting, T. Zoric described the letter and informed about a planned Feb 23 meeting of three UTFA committees (Equity, External Affairs, and Executive) to discuss the issue. The meeting was announced verbally (no written information was sent to all Council, some members who were absent never learned about this meeting), and many of the Council left with the impression that the meeting was to be restricted to the Council members with any possible voting rights restricted to the members of the three committees. 
+
+* L. Florence, as a non-Council member received an invitation to speak at the meeting. He refused to attend 
+
+* Although there was no information 
+
+* No member of the Council has ever spoken in the Council in support of UTFA adopting the IHRA definition. The only support for UTFA recommenditng the UofT to adopt the definition was expressed in 2 or 3 emails by L. Florence. It is difficult to describe his emails as "arrogance and disrespect for democratic process".
+
+* Many signatories of the letter attended the three-committee meeting. I have attended as well and I have heard their very persuasive case against the definition. The meeting was completely one-sided as no supporter of the IHRA definition attended.
+
+* On Feb 25, L. Florence sent the follow-up email:
+
+> I now believe that my presence at any UTFA Council meeting to discuss anything related to anti-Semitism or the IHRA definition will almost certainly cause more damage than benefit to UTFA itself and to the cause of fighting anti-Semitism, both of which are very important to me, so I am withdrawing my request to address the UTFA Council.
+
+* This request was , the Executive 
 
 * In the subsequent days, multiple Council members, including E. Barbeau, R. Gillis, E. Fillion, A. Zilman, R. Levine wrote to the Council advising to ignore the issue i.e., not to hold any vote. 
 
@@ -50,6 +66,8 @@ Some additional details:
 >not [to] advocate that U of T adopt the IHRA definition of anti-Semitism. 
 The Executive Motion was neither approved or rejected - it was tabled with all but one member of the Council voting for tabling it. Terezia Zoric (UTFA President), Jun Nogami (VP SBPW), Renan Levine (future presidential candidate), and almost everybody else voted in the same way. 
 L. Florence did not attend this meeting (he was not a Council member). However, he sent an email to the Council supporting the basic idea behind the tabling motion. 
+
+To summarize this long tic-toc: the IHRA 
 
 * Nobody, including anybody connected to the future presidential campaign of R. Levine, tried to bring this issue back again.  
 
